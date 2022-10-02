@@ -8,7 +8,7 @@ go build .
 
 To build an exe file named `chat`
 
-Next, enter the following command in the terminal to start the server on port `:8888. Or run it by executing the chat.exe file.`
+Next, enter the following command in the terminal to start the server on port `:8888`. Or run it by executing the `chat.exe` file.
 
 ```
 ./chat
